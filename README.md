@@ -1,5 +1,5 @@
 # UAS_SistemTerdistribusi
-# django-chatting-app
+# Chatting App UAS Sistem Terdistribusi
 Deskripsi : Aplikasi chatting menggunakan arsitektur rest API yang dijalankan menggunakan framework django
 Cara Pakai : download aplikasi, pastikan anda mempunyai django framework yang dapat diinstal dengan menggunakan pip install django di cmd, dan python juga terinstall.
 sebelum memulai install requirements di powershell dengan memasukkan command "pip install -r requirements.txt"
